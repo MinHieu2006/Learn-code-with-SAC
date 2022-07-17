@@ -1,0 +1,55 @@
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\Learn code with S.A.C.exe
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\Learn code with S.A.C.pdb
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\obj\Debug\Learn code with S.A.C.csprojAssemblyReference.cache
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\obj\Debug\Learn_code_with_S.A.C.Properties.Resources.resources
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\obj\Debug\Learn_code_with_S.A.C.startup.resources
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\obj\Debug\Learn code with S.A.C.csproj.GenerateResource.cache
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\obj\Debug\Learn code with S.A.C.exe.licenses
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\obj\Debug\Learn code with S.A.C.csproj.CoreCompileInputs.cache
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\obj\Debug\Learn code with S.A.C.csproj.CopyComplete
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\obj\Debug\Learn code with S.A.C.exe
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\obj\Debug\Learn code with S.A.C.pdb
+C:\Users\thpt hoang dieu\Desktop\Learn code with S.A.C\Learn code with S.A.C\Learn code with S.A.C\obj\Debug\Learn_code_with_S.A.C.Form1.resources
